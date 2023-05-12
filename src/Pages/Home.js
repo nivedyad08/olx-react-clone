@@ -13,6 +13,7 @@ function Home(props) {
       <Banner />
       <Posts />
       <Footer />
+      
     </div>
   );
 }
